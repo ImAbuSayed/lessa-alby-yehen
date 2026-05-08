@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lessa Alby Yehen
+
+This log tracks the cryptographic history and versioning for the song **Lessa Alby Yehen** (lessa-alby-yehen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:18:00.852832 | `v1` | `988866ba762ae49a726fc844fc00a42439a4c8c655972a8c266fc4bd9e35567d` | `0a2cb0c7f0d77a093b77ba80517865a08a53197d9e7418f7aa8d2af8c097d032` | `2026-05-09_lessa-alby-yehen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
